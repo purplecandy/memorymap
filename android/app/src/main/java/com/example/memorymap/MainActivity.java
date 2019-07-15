@@ -1,4 +1,4 @@
-package com.example.memorymap;
+package in.kibibyte.memorymap;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
